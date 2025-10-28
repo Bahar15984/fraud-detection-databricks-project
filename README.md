@@ -108,11 +108,16 @@ Due to size limitations, the dataset is not included in this repository.
 ```
 
 ---
-
+## Business Impact
+- Enables real-time fraud detection for large-scale financial transactions.  
+- Reduces manual review efforts through automated retraining and MLflow monitoring.  
+- Provides a scalable framework for financial institutions to improve fraud prevention and compliance with AML (Anti-Money Laundering) regulations.  
+----
 ## Author
 
 ```plaintext
 Created by: Bahar Almasi  
 Azure Databricks | PySpark | Machine Learning | MLOps
 ```
+
 
